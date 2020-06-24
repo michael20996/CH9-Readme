@@ -1,7 +1,7 @@
 
-# Project Title : casino
+# Project Title : ReadMe Gen
 ## Project Description:
-decr
+generates readme
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,11 +12,11 @@ decr
 * [Author] (#Author)
 * [Badges](#badges)
 ## Installation
-mehtod
+node index.js
 ## Usage
-eating
+pulling data from github
 ## Contributors
-michael
+Michael
 ## Test
 undefined
 ## Questions
